@@ -1,0 +1,47 @@
+Abdellah Aoukrad
+SOFTWARE DEVELOPER
+
+ABOUT ME
+
+Software Engineer with 8+ years of experience building custom platforms, automation systems, and revenue-driven software for international companies. Owned end-to-end development of Shopify-integrated CRM systems and automated trading solutions, contributing to business growth from $200K to $600K annual revenue and $30K+ in first-month product revenue.
+
+WORK EXPERIENCE
+
+Senior Software Engineer / Product Engineer
+Oct 2023 - Present
+Clutch Hair Culture • Remote (Kansas, USA)
+► Designed and built a custom CRM platform from scratch, tightly integrated with Shopify, to manage operations, customers, orders, and internal workflows.
+► Developed and customized the Shopify storefront and theme, improving UX, performance, and conversion.
+► Implemented end-to-end automation across sales, order processing, customer management, and internal operations.
+► Built custom business tools and workflows tailored to company needs, replacing manual processes with scalable systems.
+► Contributed directly to business growth, supporting revenue scaling from ~$200K/year to ~$600K/year.
+
+Freelance Software Engineer (Automation / Backend)
+Jan 2019 - Present
+Upwork & Fiverr • Remote
+► Delivered custom backend systems, automation tools, bots, for international clients.
+► Built real-time monitoring tools, data extraction systems, and API integrations.
+► Developed multi-process Python applications for performance-critical tasks.
+► Managed full project lifecycles from requirements to delivery.
+
+Software Engineer – Automation & Trading Systems
+Jun 2022 - Nov 2022
+BottingEmpire.com • Remote (Germany)
+► Conceived, designed, and developed a fully automated trading system for buying and selling digital game items across online marketplaces.
+► Delivered a production system that generated $30K+ in revenue in the first month.
+► Built backend services to interact with external marketplaces (e.g. D2Gate), handling pricing logic, transactions, and inventory flow.
+
+Software Developer (Full-Stack)
+Mar 2023 - Jun 2023
+Poise Golf LLP • Remote
+► Built a full-stack golf trainer management platform enabling lesson scheduling, payments, student communication, and performance tracking.
+
+EDUCATION
+
+Baccalaureate in Human Sciences
+Jun 2015
+Lycee Mhamid 7 • Marrakech, Morocco
+
+Specialized Technician in Hotel and Restaurant Management
+Aug 2018
+Center Development Skills Hotel Tourism • Marrakech
