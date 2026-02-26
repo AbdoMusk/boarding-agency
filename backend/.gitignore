@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Environment variables
+.env
+
+# Instance folder (Flask)
+instance/
+
+# Cache, logs, and outputs
+cache/
+*.log
+outputs/
+
+# Uploaded files
+uploads/
+
+# Images (if generated or user-uploaded)
+images/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore database
+*.db
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# Exclude example env file from ignore
+!.env.example

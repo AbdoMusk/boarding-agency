@@ -1,28 +1,34 @@
 {
   "name": "Abdellah Aoukrad",
   "skills": [
-    "Shopify",
-    "CRM",
-    "Automation",
-    "Backend Development",
     "Python",
-    "API Integrations",
-    "Data Extraction",
-    "Trading Systems",
-    "Full-Stack Development",
-    "Performance Optimization",
-    "System Design",
-    "Workflow Automation"
+    "APIs",
+    "Automation",
+    "Bots",
+    "Web Scraping",
+    "Real-Time Systems",
+    "Shopify",
+    "Custom CRM Systems",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "NuxtJS",
+    "Databases",
+    "Integrations",
+    "Discord Bots",
+    "Business Process Automation",
+    "AWS/Cloud Services"
   ],
-  "experience_years": 8.5,
-  "education_level": "Baccalaureate",
+  "experience_years": 8,
+  "education_level": "Specialized Technician",
   "languages": [
     "English",
     "Arabic",
-    "French"
+    "French",
+    "Spanish"
   ],
-  "strengths": "Experience building custom platforms, automation systems, and revenue-driven software.  Successful in scaling revenue and implementing automation solutions.  Experience with Shopify integration and trading systems.",
-  "weaknesses": "Limited information provided regarding specific weaknesses.",
+  "strengths": "Problem Solving, Business Awareness, Ownership, Automation Expertise, Revenue-driven development",
+  "weaknesses": "Non-technical formal education background (Hotel and Restaurant Management)",
   "risk_level": "Medium",
   "compatibility_score": 46
 }
